@@ -1,0 +1,19 @@
+# Compiled objects
+*.o
+*.out
+*.exe
+ccbitcask
+
+# Database files
+database/
+*.db
+*.log
+*.hint
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+bin/
